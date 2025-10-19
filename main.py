@@ -9,3 +9,4 @@ sonuc=sayilar
 sonuc=module.toplama(5,10)
 
 print(sonuc)
+print(sonuc)

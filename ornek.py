@@ -1,3 +1,4 @@
 import math
 
-math.pi * 3
+sonuc=math.pi * 3
+print(sonuc)
